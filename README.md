@@ -53,7 +53,8 @@ From Flutter UI to secure APIs — shipping end-to-end mobile products
 ## 🧰 Skills & Tools
 
 - Languages & Platforms (badges above): Dart · C# · Swift · PHP · JavaScript
-- Frontend: Flutter · Angular · SwiftUI
+- Mobile App: Flutter · SwiftUI
+- Fronted: Angular
 - Backend: Laravel · Node.js · ASP.NET
 - DevOps & Cloud: Docker · Git · GitHub · GitLab
 - Databases: SQL (MySQL) · MongoDB
