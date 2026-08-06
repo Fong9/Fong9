@@ -46,7 +46,7 @@ Flutter developer — crafting mobile UX backed by reliable APIs
 From Flutter UI to secure APIs — shipping end-to-end mobile products
 
 - I’m currently: Working as a Mobile App Developer at Telecom Cambodia
-- I’m learning: Currently I'm self learning with SwiftUI and more deep into advance flutter
+- I’m learning: Currently I'm self learning with SwiftUI and more deep into advance flutter lesson
 
 ---
 
