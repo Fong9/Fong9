@@ -3,16 +3,6 @@
 > Building expressive Flutter apps with API Service.
 
 - Currently: I'm a student and working on-site as Mobile Developer.
-
----
-
-### Languages
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-007396?logo=csharp&logoColor=fff&style=for-the-badge)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=fff&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-
 ---
 
 ### Mobile & UI Frameworks
