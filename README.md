@@ -39,7 +39,6 @@
 
 ## Skills & Tools
 
-- Languages & Platforms (badges above): Dart · C# · Swift · PHP · JavaScript
 - Mobile App: Flutter · SwiftUI
 - Fronted: Angular
 - Backend: Laravel · Node.js · ASP.NET
