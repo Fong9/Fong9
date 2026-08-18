@@ -67,5 +67,5 @@ Tech highlights:
 ## Connect with me
 
 - Portfolio: None
-- LinkedIn: https://www.linkedin.com/in/fongsy-heang-206252350
+- LinkedIn: https://www.linkedin.com/in/fongsy-heang
 - Email: fongsy1080@gmail.com
