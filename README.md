@@ -37,16 +37,6 @@
 
 ---
 
-## Skills & Tools
-
-- Mobile App: Flutter · SwiftUI
-- Fronted: Angular
-- Backend: Laravel · Node.js · ASP.NET
-- DevOps & Cloud: Docker · Git · GitHub · GitLab
-- Databases: SQL (MySQL) · MongoDB
-
----
-
 ## Featured Projects
 
 ### Flutter (GetX) — [Ecommerce App](https://github.com/Fong9/flutter-ecomerce-getx.git)
