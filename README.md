@@ -43,7 +43,7 @@
 Short description: Building an e‑commerce mobile app with Flutter and Laravel.  
 Tech highlights:
 - Flutter: Dio, Secure Storage, Firebase,
-- OAuth: Google & Facebook
+- Firebase: oAuth (Google & Facebook),
 - Laravel: Sanctum, API backend
 
 ### Flutter (BloC) — [Airline App](https://github.com/Fong9/flutter-airline-bloc.git)
@@ -52,6 +52,11 @@ Tech highlights:
 - Flutter: Dio, Secure Storage, Firebase
 - Laravel: Sanctum, API backend
 
+### Flutter (Provider) — [Airline App](https://github.com/Fong9/flutter-airline-bloc.git)
+Short description: Building an small booking movie mobile app with fake json data in Flutter and oAuth 2.0 with Firebase.  
+Tech highlights:
+- Flutter: share_preferences,
+- Firebase: oAuth 2.0 (Google & Facebook)
 ---
 
 ## Connect with me
