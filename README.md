@@ -52,7 +52,7 @@ Tech highlights:
 - Flutter: Dio, Secure Storage, Firebase
 - Laravel: Sanctum, API backend
 
-### Flutter (Provider) — [Airline App](https://github.com/Fong9/flutter-airline-bloc.git)
+### Flutter (Provider) — [Booking Movie App](https://github.com/Fong9/flutter-movie-provider.git)
 Short description: Building an small booking movie mobile app with fake json data in Flutter and oAuth 2.0 with Firebase.  
 Tech highlights:
 - Flutter: share_preferences,
