@@ -69,7 +69,7 @@ Tech highlights:
   <span>
     <a href="https://www.linkedin.com/in/fongsy-heang-206252350">Linkedin Account</a> 
   </span>
-</div>
+</div> <br>
 
 <div style="display: flex; align-items: center; gap: 10px; justify-content: center">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
