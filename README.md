@@ -62,11 +62,11 @@ Tech highlights:
 
 ## Connect with me
 Portfolio: None
-<div>
+<div style="display: flex; align-items: center">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">:
   <span>https://www.linkedin.com/in/fongsy-heang-206252350</span>
 </div>
-<div>
+<div style="display: flex; align-items: center">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">:
   <span>fongsy1080@gmail.com</span>
 </div>
