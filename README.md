@@ -13,6 +13,7 @@
 
 ### Frontend Frameworks
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 
 ---
 
