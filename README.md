@@ -62,10 +62,5 @@ Tech highlights:
 
 ## Connect with me
 
-[![LinkedIn][linkedin-badge]][linkedin-url]
-[![Email][email-badge]][email-url]
-
-[linkedin-badge]: https://img.shields.io/badge/Link-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/fongsy-heang-206252350
-[email-badge]: https://img.shields.io/badge/Link-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-[email-url]: mailto:fongsy1080@gmail.com
+[![Link](https://img.shields.io/badge/Link-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fongsy-heang-206252350)
+[![Link](https://img.shields.io/badge/Link-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fongsy1080@gmail.com)
