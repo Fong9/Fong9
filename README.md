@@ -7,7 +7,7 @@
 
 ### Mobile & UI Frameworks
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
-![SwiftUI (Swift)](https://img.shields.io/badge/-SwiftUI-FA7343?logo=swift&logoColor=fff&style=for-the-badge)
+![Swift (Swift)](https://img.shields.io/badge/-SwiftUI-FA7343?logo=swift&logoColor=fff&style=for-the-badge)
 
 ---
 
