@@ -1,6 +1,6 @@
-# Flutter Dev 
+# Mobile Developer
 
-> Building expressive Flutter apps with API Service.
+> Building expressive Mobile apps using Flutter framework with API Service.
 
 - Currently: I'm a student and working on-site as Mobile Developer.
 ---
